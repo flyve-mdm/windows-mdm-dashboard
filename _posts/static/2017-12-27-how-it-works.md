@@ -5,7 +5,10 @@ published: true
 title: How it works
 permalink: howtos/how-it-works
 description: A brief introduction
+category: user
+date: 2017-12-26
 ---
+
 The Windows MDM Dashboard allows you to manage your mobile fleet with the same features of our Web Dashboard but from the comfort of your Windows Phone.
 
 Flyve MDM is a Mobile Device Management software that enables you to secure and manage all the mobile devices of your business or family via an Admin Dashboard app or Web Dashboard.

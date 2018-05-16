@@ -5,7 +5,9 @@ published: true
 title: Installation
 permalink: howtos/installation
 description: Get it now
+category: user
 ---
+
 You can install the application by downloading it from the Microsoft Store
 
 <img src="https://i.imgur.com/TkhBuFn.png" alt="Get it from Microsoft" width="500">
